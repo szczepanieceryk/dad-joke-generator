@@ -1,6 +1,6 @@
-# Opanuj Frontend: AI Edition - Frontend Bootstrap
+# Dad Jokes Generator App
 
-![](./_resources/img/header.png)
+<!-- ![](./_resources/img/header.png)
 
 ## Co w środku?
 
@@ -14,12 +14,4 @@ Bootstrap projektu opartego o następujące narzędzia:
 - [Tailwind](https://tailwindui.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vite.dev/)
-- [Vitest](https://vitest.dev/)
-
-## Pierwsze kroki
-
-```bash
-nvm use
-npm install
-npm run dev
-```
+- [Vitest](https://vitest.dev/) -->
